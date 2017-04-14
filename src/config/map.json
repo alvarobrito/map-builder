@@ -1,0 +1,58 @@
+{
+  "geoJSON": {
+    "url": "./assets/data/cartodb.geojson"
+  },
+  "map": {
+    "coordinates": [0, 0],
+    "zoom": 2
+  },
+  "tileLayer": {
+    "url": "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+    "options": {
+      "minZoom": 2,
+      "maxZoom": 8,
+      "attribution": "&copy; <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a>, &copy; <a href='https://carto.com/attribution'>CARTO</a>"
+    }
+  },
+  "styles": {
+    "radius": 3,
+    "color": "#6a6a6a",
+    "weight": 0.5,
+    "fillColors": [
+      {
+        "count": 300000,
+        "color": "#800026"
+      },
+      {
+        "count": 200000,
+        "color": "#BD0026"
+      },
+      {
+        "count": 100000,
+        "color": "#E31A1C"
+      },
+      {
+        "count": 50000,
+        "color": "#FC4E2A"
+      },
+      {
+        "count": 10000,
+        "color": "#FD8D3C"
+      },
+      {
+        "count": 1000,
+        "color": "#FEB24C"
+      },
+      {
+        "count": 100,
+        "color": "#FED976"
+      },
+      {
+        "count": 0,
+        "color": "#FFEDA0"
+      }
+    ],
+    "opacity": 1,
+    "fillOpacity": 0.5
+  }
+}
