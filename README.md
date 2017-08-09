@@ -1,7 +1,13 @@
+# map-builder
+An web application for styling maps, using Leaflet & ES6.
+
+![Demo Map Builder ES6](https://raw.githubusercontent.com/alvarobrito/map-builder/master/map-builder_demo.gif)
+
 # Usage
+
 ``` bash
 # install dependencies
-yarn instal or npm install
+yarn install | npm install
 
 # serve the app: http://localhost:8080/
 npm start
