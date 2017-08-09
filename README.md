@@ -1,5 +1,5 @@
 # map-builder
-An web application for styling maps, using Leaflet & ES6.
+A web application for styling maps using cartoDB, Leaflet & ES6.
 
 ![Demo Map Builder ES6](https://raw.githubusercontent.com/alvarobrito/map-builder/master/map-builder_demo.gif)
 
